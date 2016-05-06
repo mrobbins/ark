@@ -1,5 +1,5 @@
 # ark cookbook
-[![Build Status](https://travis-ci.org/burtlo/ark.svg?branch=master)](https://travis-ci.org/burtlo/ark)
+[![Build Status](https://travis-ci.org/mrobbins/ark.svg?branch=master)](https://travis-ci.org/mrobbins/ark)
 
 ## Overview
 This cookbook provides `ark`, a resource for managing software archives. It manages the fetch-unpack-configure-build-install process common to installing software from source, or from binary distributions that are not fully fledged OS packages.
